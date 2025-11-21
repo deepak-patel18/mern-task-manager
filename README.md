@@ -7,11 +7,9 @@ This project demonstrates clean frontend architecture, scalable backend APIs, mo
 
 ## 🔗 Live Demo
 Frontend (Vercel):  
-👉 https://your-frontend.vercel.app/
+👉 https://mern-task-manager-3aq8-c3yb3zljp.vercel.app
 
 Backend (Render/Railway):  
-👉 https://your-backend-url.com  
-*(Optional — backend may run locally for evaluation)*
 
 ---
 Task/
@@ -103,6 +101,6 @@ Deepak Patel
 MCA | Full Stack Developer | React | Node.js | MongoDB
 Mumbai, India
 
-GitHub: https://github.com/your-username
+GitHub: https://https://github.com/deepak-patel18
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/deepak-patel-63378a21b
